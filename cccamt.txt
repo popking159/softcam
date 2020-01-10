@@ -4,3 +4,4 @@ C: 1.cccam.rocks 23000 cccam.host 12205
 C: 1.cccam.live 23000 cccam.host 12205
 C: 2.cccam.rocks 23000 cccam.host 12205
 C: powerman2.tk 63900 vmb7tz2wggpowerman powerman
+C: powerman2.tk 61900 vmb7tz2wggpowerman powerman
