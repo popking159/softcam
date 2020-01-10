@@ -9,3 +9,4 @@ C: 1.cccam.rocks 26001 popkin jGUxYkHT
 C: 2.cccam.rocks 26002 popkin jGUxYkHT
 C: 3.cccam.rocks 26003 popkin jGUxYkHT
 C: 4.cccam.rocks 26004 popkin jGUxYkHT
+C: z5.cccamz.com 13100 rojydp cccamz.com
