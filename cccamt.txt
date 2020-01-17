@@ -23,3 +23,8 @@ C: speedserver.myftp.ws 11000 speedcccam219 f36l25
 C: s6.scccam.com 12300 59605 paksat.pk
 C: 178.238.224.107 18000 aabb bbaa
 C: 178.238.224.107 18000 haha bbaa
+C: 1.iptvhd7.com 1677 oDJuzW1 iptvhd7.com
+C: 1.iptvhd7.com 1677 oDJuzW2 iptvhd7.com
+C: 1.iptvhd7.com 1677 oDJuzW3 iptvhd7.com
+C: 1.iptvhd7.com 1677 oDJuzW4 iptvhd7.com
+C: 1.iptvhd7.com 1677 oDJuzW5 iptvhd7.com
