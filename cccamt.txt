@@ -28,3 +28,6 @@ C: 1.iptvhd7.com 1677 oDJuzW2 iptvhd7.com
 C: 1.iptvhd7.com 1677 oDJuzW3 iptvhd7.com
 C: 1.iptvhd7.com 1677 oDJuzW4 iptvhd7.com
 C: 1.iptvhd7.com 1677 oDJuzW5 iptvhd7.com
+C: 1.cccam.life 23000 cccam.agency 81139
+C: 2.cccam.life 23000 cccam.agency 81139
+C: newking.mysql.tv 12000 Foxhd812 1Z900x
