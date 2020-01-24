@@ -10,7 +10,6 @@ C: 3.clinesat.xyz 33000 qv6xxqtk9 vpsr2jpd
 C: 46.20.36.27 42 mrshc370 565rr56ui
 C: 5.clinesat.xyz 55000 atsuper1104a59 vpsr208p
 C: 5.clinesat.xyz 55000 atsuper1857 686623
-C: 54.38.157.235 7777 kosimov 7430877
 C: 6.clinesat.xyz 61000 exsuper3828 741489
 C: 6.clinesat.xyz 61000 global18 tv2ba9
 C: 6.clinesat.xyz 61000 owd01922 tvdnq
