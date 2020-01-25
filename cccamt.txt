@@ -29,3 +29,9 @@ C: s10-cas1.dyndns.tv 7777 kosimov 7430877
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877
 C: upc2.boxnl.org 10006 bachiz101 bachiz101ix
 C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
+C: jmth.dyndns.org 20000 jonot jonot
+C: 79.143.178.10 19000 abboe10800 rtrtg
+C: cccam30day.ddns.net 17000 10333936 cccam30day
+C: cyber.lovel4ever.eu 62500 johanspoelstra johan61
+C: bandookk.sytes.net 33002 bandookk khan1
+C: cccam.bongulu.biz 17000 bursaremzi oWWPKL8Hf
