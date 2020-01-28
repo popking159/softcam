@@ -1,13 +1,9 @@
-C: 178.238.224.107 14000 haha bbaa
-C: 178.238.224.107 14000 koora koora
-C: 178.238.224.107 14000 tvtv tvtv
-C: 178.238.224.107 18000 aabb bbaa
-C: 178.238.224.107 18000 haha bbaa
-C: 178.238.224.107 18000 koora koora
-C: 178.238.224.107 18000 tvtv tvtv
 C: 178.32.89.251 1003 00 00
 C: 186.2.174.92 10100 persic58 16092017persic
 C: 186.2.174.94 10100 zolvor1 zolvor1
+C: 188.26.247.117 15158 4AmikoA4SP C2C2prolab32
+C: 2.clinesat.xyz 22000 owd01922 tvdnq
+C: 5.clinesat.xyz 55000 owd01922 tvdnq
 C: grandserver1.pw 1000 11grandcccam0504 228212230
 C: grandserver1.pw 1000 11grandcccam0522 228212230
 C: grandserver1.pw 1000 11grandcccam0547 228212233
