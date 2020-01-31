@@ -22,10 +22,7 @@ C: 6.clinesat.xyz 61000 atsuper1104a59 vpsr208p
 C: 6.clinesat.xyz 61000 atsuper1104a60 vpsr2ubc
 C: 6.clinesat.xyz 61000 atsuper872 423858
 C: 6.clinesat.xyz 61000 owd01922 tvdnq
-C: grandserver1.pw 1000 11grandcccam0502 228212232
-C: grandserver1.pw 1000 11grandcccam0504 228212230
-C: grandserver1.pw 1000 11grandcccam0522 228212230
-C: grandserver1.pw 1000 11grandcccam0547 228212233
+C: bandookk.sytes.net 33002 bandookk +923325650401
 C: jeje.resident.ovh 33333 fjmallen fjmallenpass
 C: mrsharing.net 43 mrsharing.com22491 oiuyt66553
 C: s10-cas1.dyndns.tv 7777 kosimov 7430877
