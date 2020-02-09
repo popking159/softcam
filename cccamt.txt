@@ -6,3 +6,5 @@ C: s10-cas1.dyndns.tv 7777 kosimov 7430877
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877
 C: upc2.boxnl.org 10006 bachiz101 bachiz101ix
 C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
+C: 188.165.166.78 9500 mayk25CSAT mayk25YNDX
+C: rox1.zapto.org 18000 JO2BHQ1SN3 MJ6AOUSYA1
