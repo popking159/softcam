@@ -8,3 +8,5 @@ C: upc2.boxnl.org 10006 bachiz101 bachiz101ix
 C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
 C: 188.165.166.78 9500 mayk25CSAT mayk25YNDX
 C: rox1.zapto.org 18000 JO2BHQ1SN3 MJ6AOUSYA1
+C: nassarzd2.ddns.net 15000 new200 group
+C: rienso.zapto.org 12000 ziggotester ziggotest123
