@@ -5,14 +5,7 @@ C: 79.143.178.10 19000 abboe10800 rtrtg
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877
 C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
 C: upc2.boxnl.org 10006 bachiz101 bachiz101ix
-C: mrsharing.net 43 mrsharing.com22491 oiuyt66553
 C: 178.32.89.251 1003 zargacum.center update
 C: 79.143.178.10 19000 abboe10800 rtrtg
 C: 186.2.174.92 10100 persic58 16092017persic
-C: hotte-x.dyndns.org 20549 Claudia-Dreambox CS-server-dbox
-C: 1.tvsnake.com 22800 RNL3GJ bJcTBD
-C: 1.tvsnake.com 22800 dmqHkK k4cCmX
-C: infosat.satunivers.tv 50000 ggggggg www.satunivers.net
-C: server.satunivers.tv 50000 5oy5oy dzpros-forum
-C: ex.fcccam.com 37000 fcccam-18239 fcccam-82597
-C: f1.kcccam.com 16000 7718537 kcccam.com
+C: bandookk.sytes.net 33002 pakdth pakdth
