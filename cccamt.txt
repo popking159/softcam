@@ -1,12 +1,8 @@
 C: 178.32.89.251 1003 00 00
 C: 186.2.174.92 10100 persic58 16092017persic
 C: 54.38.157.235 7777 kosimov 7430877
-C: 79.143.178.10 19000 abboe10800 rtrtg
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877
 C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
 C: upc2.boxnl.org 10006 bachiz101 bachiz101ix
 C: 178.32.89.251 1003 zargacum.center update
-C: 79.143.178.10 19000 abboe10800 rtrtg
 C: 186.2.174.92 10100 persic58 16092017persic
-C: bandookk.sytes.net 33002 pakdth pakdth
-C: tounfite.ddns.net 38818 wail1 kora1
