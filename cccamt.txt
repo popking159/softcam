@@ -1,3 +1,5 @@
+C: 1.3gyptsat.net 1582 IqLdyx23 3gyptsat.net
+C: 1.3gyptsat.net 1582 IqLdyx45 3gyptsat.net
 C: 178.32.89.251 1003 00 00
 C: 54.38.157.235 7777 kosimov 7430877
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877
