@@ -7,3 +7,6 @@ C: 178.32.89.251 1003 zargacum.center update
 C: m3ga.no-ip.biz 1122 fuchico xfgj210ldf
 C: Covid-19.gucker.selfhost.eu 22001 freebecauseofcovid19 covid19
 C: jeje.resident.ovh 33333 fjmallen fjmallenpass
+C: hotte-x.dyndns.org 20549 Claudia-Dreambox CS-server-dbox
+C: 37.187.161.201 1003 0880 0000
+C: 37.187.161.201 1003 0931 000q
