@@ -2,11 +2,8 @@ C: 178.32.89.251 1003 00 00
 C: 54.38.157.235 7777 kosimov 7430877
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877
 C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
-C: upc2.boxnl.org 10006 bachiz101 bachiz101ix
 C: 178.32.89.251 1003 zargacum.center update
-C: m3ga.no-ip.biz 1122 fuchico xfgj210ldf
-C: Covid-19.gucker.selfhost.eu 22001 freebecauseofcovid19 covid19
 C: jeje.resident.ovh 33333 fjmallen fjmallenpass
-C: hotte-x.dyndns.org 20549 Claudia-Dreambox CS-server-dbox
 C: 37.187.161.201 1003 0880 0000
 C: 37.187.161.201 1003 0931 000q
+C: 37.187.161.201 1003 0203 0004
