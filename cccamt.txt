@@ -10,3 +10,4 @@ C: 37.187.161.201 1003 0203 0004
 C: free.speeds.tv 55455 h5dym topservercccam
 C: free.speeds.tv 55455 1b2ws topservercccam
 C: free.speeds.tv 55455 98d7y topservercccam
+C: svr1.oscam-service.me 21000 1-49 http://Oscam-Service.Me
