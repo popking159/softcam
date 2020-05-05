@@ -10,3 +10,6 @@ C: 37.187.161.201 1003 0914 0002
 C: mrsharing.net 43 mrsharing.com22491 oiuyt66223
 C: 79.143.178.10 19000 abboe10800 rtrtg
 C: 178.238.224.107 18000 eeee kaka
+C: tlk29c.cserver.tv 1003 ooooo ooooo
+C: ru504.cserver.tv 1003 ooooo ooooo
+C: ru278.cserver.tv 1003 ooooo ooooo
