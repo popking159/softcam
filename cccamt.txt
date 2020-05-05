@@ -3,11 +3,9 @@ C: 54.38.157.235 7777 kosimov 7430877
 C: s10-cas1.dyndns.tv 7777 solijonsekubra 7430877
 C: wal2.no-ip.org 14000 walsat1377 rjytjtkjk
 C: 178.32.89.251 1003 zargacum.center update
-C: jeje.resident.ovh 33333 fjmallen fjmallenpass
 C: mezoo.spdns.org 1003 0880 0000
 C: 37.187.161.201 1003 0931 000q
 C: 37.187.161.201 1003 0914 0002
-C: mrsharing.net 43 mrsharing.com22491 oiuyt66223
 C: 79.143.178.10 19000 abboe10800 rtrtg
 C: 178.238.224.107 18000 eeee kaka
 C: tlk29c.cserver.tv 1003 ooooo ooooo
