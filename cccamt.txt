@@ -20,3 +20,6 @@ C: 178.238.224.107 18000 tvtv tvtv
 C: 193.34.144.135 53053 bokipan GeoForum
 C: 51.89.40.86 1003 mhisw9nb xmka1hfa
 C: upc2.boxnl.org 10006 bachiz107 bachiz101ij
+C: ferocam.com 13000 dara06 66666
+C: 188.165.166.78 9500 mayk25CSAT mayk25YNDX
+C: onecccam.freeddns.org 33000 userr52 star7arab
